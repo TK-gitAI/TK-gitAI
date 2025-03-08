@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Dod and Cat
 - 📫 How to reach me ... catch me if you can
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... animal 
+- ⚡ Fun fact: ... I love animal 
 
 <!---
 TK-gitAI/TK-gitAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
